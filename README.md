@@ -23,7 +23,7 @@ EMS requires [Node.js](https://nodejs.org/) v4+ to run, [NPM(Node Packege Manage
 
 1: Clone this Repository
 ```sh
-$ git clone https://github.com/Parth910/Entry-Management-System.git
+$ git clone https://github.com/MusheeraBegum/Entry-System.git
 ```
 2: Change diractory
 ```sh
@@ -59,10 +59,15 @@ $ npm start
 ```
 You can see this output in Teminal
 ```sh
-> client@0.1.0 start /home/tony/assignments/entry_mangement_system
-> node server/app.js 
+> Entry Management System@^1.0.0 start
+> node server/app.js
 
---------------------------------------
+(node:18316) Warning: Accessing non-existent property 'count' of module exports inside circular dependency
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:18316) Warning: Accessing non-existent property 'findOne' of module exports inside circular dependency
+(node:18316) Warning: Accessing non-existent property 'remove' of module exports inside circular dependency
+(node:18316) Warning: Accessing non-existent property 'updateOne' of module exports inside circular dependency
+---------------------------------------
 -------------------
 ----------
 ==> App is Running at http://localhost:9000
