@@ -89,30 +89,24 @@ You can see this output in Teminal
    * Main Component : It contains two buttons **CHECK IN** and **ADD HOST**. from CheckIn you can CheckIn visitor and from addHost you can add new host.
    * Visitor Dashboard Component : It contains visitors list in tabular formate which includes Name, Email, Address and Action coloums. from Action you can view visitor card of visitor with checkout option.
    * Host Dashboard Component : It contains hosts list in tabular formate which includes Name, Email and Action coloums. from Action you can remove host.
-   ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2004-14-26.png)
+   ![image](https://github.com/user-attachments/assets/a67e5709-61f8-458e-a06f-41516839c0f7)
+
 #### 2. Add Host Page
  * This contains basic entry form which has Name, Email and Phone fields.
  * Host can fill information and be a host !!
  * Submit it will redirect to Home Page
-  ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2004-15-41.png)
+   ![image](https://github.com/user-attachments/assets/2331b957-92cf-4827-8e57-5039968f9c97)
+
 #### 3. Add Visitor/CheckIn Page
  * This contains basic Entry form which has Name, Email, Phone, Select Host and Address person want to visit.
  * Visitor can fill information and CheckIn !!
  * Submit it will redirect to Visitorcard Page
   ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2005-52-07.png)
+
 #### 4. Visitor card Page
  * This contains Visitor Details Card which has Name, Email, Phone, Host and Address.
  * It also contains two buttons, Home and CheckOut.
-  ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2005-52-55.png)
-  
-#### After checkIn, Host gets an Email and SMS stating details of visitor.
- <img src="https://github.com/Parth910/innovaccer_src/blob/master/Screenshot_20191128-182431.png" width="420" height="790"><img src="https://github.com/Parth910/innovaccer_src/blob/master/Screenshot_20191128-182452.png" width="420" height="790">
-#### After checkIn, Home Page
-  ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2005-13-13.png)
-  
-  
-#### After checkOut, Visitor gets an Email stating details of visit.
-  ![Image](https://github.com/Parth910/innovaccer_src/blob/master/WhatsApp%20Image%202019-11-28%20at%205.36.46%20AM.jpeg)
+   ![image](https://github.com/user-attachments/assets/d0ed680e-a875-4c88-a3d3-9286055304fe)
 
 
 ### BackEnd(API)
@@ -166,33 +160,6 @@ You can see this output in Teminal
     phone: String
 ```
 
- 
-
-
-### Deployment
-* I have deployed this application on Amazon Web Services EC2.
-* I have create one instance and deploy this application on that instace.
-* Basically I have used [nginx](https://www.nginx.com/) server and [pm2](https://pm2.keymetrics.io/) for running server on AWS Instance.
-* you can visit it at http://ec2-34-229-241-96.compute-1.amazonaws.com/
-<blockquote>
-<h4>Note:</h4><p>All required features (Mail and Sms) are working in this deployment. 
-  PS : with valid Email and Mobile Number </p>
-</blockquote>
-
-### Conatact Details
-* Name: **Parth Patel**
-* Phone: **+91 6354813121**
-* Email: **prp4203@gmail.com**
-* altEmail: **17ucs107@lnmiit.ac.in**
-* website: **[Parth910.github.io](https://Parth910.github.io)**
-
-## Want to Contribute!!
-  :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
-
-
-### Development Setup
-* To contribute in this you have this application locally.so first install from [here](https://github.com/Parth910/Innovaccer-SummerGeeks-Assignment-EMS/blob/master/README.md#installation).
-### Styleguides
 
 #### Git Commit Messages
 
@@ -204,5 +171,3 @@ You can see this output in Teminal
 #### JavaScript Styleguide
 
 * All JavaScript must adhere to [JavaScript Standard Style](https://standardjs.com/)
-#### Git Issues and Pull request
- * Feel free to submit issues and enhancement requests.
