@@ -72,7 +72,8 @@ You can see this output in Teminal
 ==> Connected to mongoDB
 ```
 ### Folder Structure
-![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2000-22-26.png)
+![image](https://github.com/user-attachments/assets/ed2b12b8-c072-46b7-8a38-0ba1afc6ed7a)
+
 
 
 ## How it Works!!!
