@@ -11,10 +11,7 @@ This Entry Management Syetem(EMS) uses a number of open source projects to work 
 * **[Node.js](https://nodejs.org/)** - evented I/O for the backend
 * **[Express](http://expressjs.com/)** - fast node.js network app framework
 * **[MongoDB](https://www.mongodb.com/)** - database 
-* **[AWS](https://aws.amazon.com/)** - for deployment
-* **[NGINX](https://www.nginx.com/)** - web-server in AWS
-* **[NodeMailer](https://nodemailer.com/about/)** - mail service
-* **[WAY2SMS API](https://www.way2sms.com/)** - sms service
+* 
 
 <blockquote>
 <h4>Note:</h4><p>All other dependencies and dev-dependencies are mentioned in packege.JSON. </p>
