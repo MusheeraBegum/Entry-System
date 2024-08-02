@@ -103,7 +103,8 @@ You can see this output in Teminal
  * This contains basic Entry form which has Name, Email, Phone, Select Host and Address person want to visit.
  * Visitor can fill information and CheckIn !!
  * Submit it will redirect to Visitorcard Page
-  ![Image](https://github.com/Parth910/innovaccer_src/blob/master/Screenshot%20from%202019-11-28%2005-52-07.png)
+   ![image](https://github.com/user-attachments/assets/685e2628-4e8a-467f-a0e6-b1ad0ff522ae)
+
 
 #### 4. Visitor card Page
  * This contains Visitor Details Card which has Name, Email, Phone, Host and Address.
